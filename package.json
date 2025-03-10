@@ -14,8 +14,8 @@
     "morgan": "^1.10.0",
     "mysql2": "^2.3.2",
     "sequelize": "^6.8.0",
-    "wx-server-sdk": "^2.6.3",
-    "openai": "^4.28.0"
+    "wx-server-sdk": "latest",
+    "openai": "latest"
   },
   "engines": {
     "node": ">=12.0.0"
